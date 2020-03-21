@@ -12,21 +12,21 @@
 * Database: MySQL
 
 ### Folder Structure
-* **/backend**: Contains JavaScript files that handles MVC (Model, View, Controller) and perform CRUD (Create, Read, Update, Delete)
-* **/frontend**: Contains frontend  UI files 
-* **/database**: Contains SQL file of entire application
+* **task/backend**: Contains JavaScript files that handles MVC (Model, View, Controller) and perform CRUD (Create, Read, Update, Delete)
+* **task/frontend**: Contains frontend  UI files 
+* **task/database**: Contains SQL file of entire application
 
 ### How to run
 * ```git clone https://github.com/Ragul-M/ebaytask```
-* ```import /database/tshirtshop.sql by creating a database on Phpmyadmin```
-* ```cd frontend```
+* ```import task/database/tshirtshop.sql by creating a database on Phpmyadmin```
+* ```cd task/frontend```
 * ```npm install```
 * ```npm start```
-* ```cd backend```
+* ```cd task/backend```
 * ```npm install```
 * ```npm start```
 * ```navigate to [http://localhost:4200/](http://localhost:4200/)```
 
 
 ### Output
-![](https://raw.githubusercontent.com/Ragul-M/ebaytask/master/frontend/src/assets/screenshot.png)
+![](https://raw.githubusercontent.com/Ragul-M/ebaytask/master/task/frontend/src/assets/screenshot.png)
