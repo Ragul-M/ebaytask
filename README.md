@@ -25,7 +25,7 @@
 * ```cd task/backend```
 * ```npm install```
 * ```npm start```
-* ```navigate to [http://localhost:4200/](http://localhost:4200/)```
+* navigate to [http://localhost:4200/](http://localhost:4200/)
 
 
 ### Output
