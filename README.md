@@ -7,7 +7,7 @@
 * Department: M.Sc Decision & Computing Science, CIT Coimbatore
 
 ### Tech Stacks used:
-* Backend: Node.js
+* Backend: Angular, Node.js
 * Frontend: HTML, CSS, JS
 * Database: MySQL
 
