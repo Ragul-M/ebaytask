@@ -29,4 +29,4 @@
 
 
 ### Output
-![](/frontend)
+![](https://raw.githubusercontent.com/Ragul-M/ebaytask/master/frontend/src/assets/screenshot.png)
