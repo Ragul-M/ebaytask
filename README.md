@@ -2,7 +2,7 @@
 # Ebay Tshirt Shopping Cart
 ## Ebay website task for Cognitive Clouds
 ### Student Details
-* Student Name: Ragul Gowda
+* Student Name: Ragul M
 * Year: III
 * Department: M.Sc Decision & Computing Science, CIT Coimbatore
 
